@@ -4,6 +4,6 @@
     "global": true,
 
     "windowTitle": "Friday Night Funkin",
-    "iconFile": "icon64",
+    "iconFile": "UI/icon64",
     "defaultTransition": "swipe"
 }

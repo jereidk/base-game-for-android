@@ -16,7 +16,7 @@
     "stageObjects": [
         {
             "id": "bg",
-            "asset": "week2/halloween_bg",
+            "asset": "backgrounds/week2/halloween_bg",
             "position": [ -200, -100 ],
             "scale": [ 1.1, 1.1 ],
             "animations": [
