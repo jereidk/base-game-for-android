@@ -5,6 +5,8 @@
     "composers": ["Kawai Sprite", "Saruky"],
     "charters": ["Jenny Crowe", "fabs", "Spazkid"],
 
+    "difficulties": ["erect", "nightmare"],
+
     "freeplayColor": "#9271FD",
     "freeplayIcon": "dad"
 }
