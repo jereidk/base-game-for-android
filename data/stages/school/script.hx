@@ -107,7 +107,7 @@ function onStartCountdown()
 		camHUD.alpha = 0;
 		camGame.flash(FlxColor.BLACK, 1);
 		
-		var path = Paths.getPath('data/dialogue/' + songName + '/' + songName + 'Dialogue.txt', null, true);
+		var path = Paths.getPath('data/dialogue/' + songName + '/' + songName + 'Dialogue.txt', null, PathsTestMode.NORMAL);
 		dialogueBox = new DialogueBox(false, CoolUtil.coolTextFile(path));
 		dialogueBox.scrollFactor.set();
 		dialogueBox.camera = camOther;
